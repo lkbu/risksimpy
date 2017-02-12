@@ -10,3 +10,6 @@ import pandas as pd
 import numpy as np
 import os
 import datetime as dt
+
+dt_start = dt.datetime(2016,1,1)
+dt_end = dt.datetime(2016,12,31)
